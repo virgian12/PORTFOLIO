@@ -1,3 +1,10 @@
+# acuan video
+https://www.youtube.com/watch?v=7V2W-lHWMEs
+15:27 / 31:00
+About.jsx
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
