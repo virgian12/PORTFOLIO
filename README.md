@@ -1,3 +1,4 @@
+
 # acuan video
 https://www.youtube.com/watch?v=7V2W-lHWMEs
 15:27 / 31:00
@@ -75,3 +76,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# PORTFOLIO
+
